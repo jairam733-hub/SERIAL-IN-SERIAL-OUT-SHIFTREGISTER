@@ -37,6 +37,16 @@ Developed by: RegisterNumber:
 
 **RTL LOGIC FOR SISO Shift Register**
 
+<img width="907" height="330" alt="1" src="https://github.com/user-attachments/assets/03ca6d7e-e94a-43bb-ab98-b6f25dae24e7" />
+
+
+
+
 **TIMING DIGRAMS FOR SISO Shift Register**
 
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/6f86f7cb-4bd4-487a-85c9-d21ae5e33968" />
+
+
+
 **RESULTS**
+Thus the shift register circuits are designed and the truth table is verified using Quartus software.
